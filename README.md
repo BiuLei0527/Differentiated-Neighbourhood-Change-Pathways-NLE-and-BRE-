@@ -95,7 +95,7 @@ This research examines TOD-induced gentrification impacts of London's **Northern
 
 <div align="center">
 
-**🚇 Transit-Oriented Development • 🏘️ Urban Gentrification • 📊 Spatial Econometrics**
+**🚇 Transit-Oriented Development • 🏘️ Urban Neighbourhood Change • 📊 Spatial Econometrics**
 
 *Advancing evidence-based urban policy through rigorous spatial analysis*
 
