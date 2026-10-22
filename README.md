@@ -1,5 +1,5 @@
 # CASA_TfL_Projects
-# Differentiated Gentrification Pathways: NLE and BRE
+# Differentiated Neighbourhood Change Pathways: NLE and BRE
 
 <div align="center">
 
